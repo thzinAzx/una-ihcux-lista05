@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\bin\Debug\net9.0\ConversorExpert.exe
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\bin\Debug\net9.0\ConversorExpert.deps.json
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\bin\Debug\net9.0\ConversorExpert.runtimeconfig.json
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\bin\Debug\net9.0\ConversorExpert.dll
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\bin\Debug\net9.0\ConversorExpert.pdb
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.dll
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\refint\ConversorExpert.dll
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.pdb
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ConversorExpert.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\LabDotnet\ConversorExpert\obj\Debug\net9.0\ref\ConversorExpert.dll
